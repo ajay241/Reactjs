@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+.health-top-cont{
+    FONT-WEIGHT: 100;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    
+    background: #094184 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.health-left-cont-text{
+    width: 20rem;
+
+    text-align: left;
+    font-size:37px;
+    letter-spacing: 0.9px;
+    color: #00A2FF;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.health-left-cont-smalltext{
+    text-align: left;
+    font: Regular 18px/30px Montserrat;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    width: 20rem;
+}
+.left-card{
+    margin: 62% 31%;
+}
+img{
+    width: 100%;
+}
+.health-left-cont-img{
+    width: 18rem;
+    margin-bottom: 36px;
+}
+.cont-one{
+    color: #29d3ef;
+}
+.cont-two{
+    color: white;
+}
+.cont-three{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    color: white;
+}
+.line{
+    width: 40px;
+    height: 26px;
+    border-bottom: 1px solid black;
+}
+.health-right-center{
+    padding: 8% 9%; 
+    border-radius: 50px;
+}
+
+.health-right-cont-image{
+    
+}
+.padding-cont{
+    padding: 0 20px
+}
+ 
+.card-body {
+    FONT-WEIGHT: bold;
+}
+.sub-tittle{
+    color: #094184;
+}
+.sub-tittle2{
+    color: #094184;
+}
+
+.column {
+    float: left;
+    width: 50%;
+  }
+  
+   .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .header-cont{
+    display: grid;
+    grid-template-columns: 21% 87%;
+  }
+  .title-cont{
+      margin: auto 0;
+  }
+  .blue-circle{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background: #34B3FE 0% 0% no-repeat padding-box;
+    margin: 45px auto;
+  }
+  .card-cont{
+      display: flex;
+
+  }
+.btn-cont{
+    margin: 95% 0 0 20%;
+}
+.blank-cont{
+    min-height: 31px;
+}
